@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXKTeSG/qb8RQ6ZvkAD6c8rAFYUnrazpGmwn5D3za32lmPmkpILqeqnx2CKUpRZ8NeuJ6O7U59JhM8KEtnAUqQ==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Projects/DataType/DataType/DataType.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
